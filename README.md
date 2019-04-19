@@ -17,7 +17,7 @@ FBILS is an accurate facebook account information gathering, all sensitive infor
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
+$ ghttps://github.com/zainkhanceh/FBILS.git
 $ cd fbi
 ```
 
